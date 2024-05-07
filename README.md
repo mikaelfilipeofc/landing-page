@@ -4,7 +4,7 @@ Uma Landing Page totalmente responsiva, que pode ser usada para venda de algo ou
 
 ### Preview 👀
 
-(https://portmikael.netlify.app/)
+(https://pagladinsimpl.netlify.app/)
 
 ### Screenshot Desktop 💻
 
